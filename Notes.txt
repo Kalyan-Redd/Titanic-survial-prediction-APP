@@ -1,0 +1,43 @@
+# supervised learning 
+ we have target variable
+ wer train dataset, model will be able to predict wheather patient able to yes or no
+
+classification:
+single
+multi
+
+Name and Id are the useless
+
+what % were suffering from covid in 2021
+150 billion-[name ,id etc]
+here we just stats who are survided or not,we dont need name we need onlt percentsge
+
+a.c name cold age cough y/n
+1  abc   yes   42 no    yes      here we need cold,age,cough y/n
+
+Ml is not for indivial ,only stats
+
+1.How many people of from age-group of 40-50 suffering from
+2. did cold and couh were major factor in predicting
+3.dia
+
+who survided
+what class from what
+what age group were able to survive from titanic sinking
+
+
+for example,
+degree = 1st,2nd,3rd,4th+behavioral marks
+        40%,60%,80%,100%,bias
+
+        1st +2nd
+
+for evrey feature wight is assigned
+
+y = w1x1 + w2x2 + w3x3 +w4+x4 + bias
+
+y= 40x1 + 60x2 + 80x3 + 100x4 + bias
+
+y = w1x1 + w2x2 + w3x3 ........+wn+xn
+
+survied = sex,age,pclass,fare,sigsp,parch
